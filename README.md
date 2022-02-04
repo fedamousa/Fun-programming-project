@@ -1,6 +1,6 @@
 # Fun-programming-project
-A project for C o u r s e : C o m p u t e r P r o g r a m m i n g ( 2 ) “ C S 1 8 1 ” 
-presented to D r. A b e e r A l h u j a y l a n
+A project for Course : Computer Programming (2) “ CS181 ” 
+presented to Dr. Abeer Alhujaylan
 Team work :
 - Feda mousa
 - leen mohammed
