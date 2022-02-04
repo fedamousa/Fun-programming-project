@@ -16,6 +16,9 @@ courses. Write a program in C language to design your schedule for the next week
 from Sunday till Saturday. Also, make the code answer your inquiries about the course that
 will be studied according to the specific day and time in each time you want to know.
 
+#### OUTPUT
+![studytime](https://user-images.githubusercontent.com/95087254/152581316-9a22dd58-e017-449d-9e8e-c7a5a1a6b908.png)
+
 
 # Second, Sport time :
 Everyone knows the importance of sport in our life, as it helps maintain our health and
@@ -24,6 +27,8 @@ language that helps you finish daily user-defined steps. If you finish your dail
 program will print: “Wow, you did a great job!”. If you have not finished your steps, the
 program will print: “Ooops, you have not finished your daily steps! try tomorrow”.
 
+#### OUTPUT
+![sport-time](https://user-images.githubusercontent.com/95087254/152581378-8313732a-c8a8-47a6-815b-c0479b91571d.png)
 
 # Third, Play time:
 After you finished your study and your daily exercise, you deserve some fun before you go
@@ -40,6 +45,9 @@ the following sentence: “Congratulations! The first / second player is the win
 As long as you are a programming genius, write a program in C language that simulates
 the previous game.
 
+#### OUTPUT
+![playtime](https://user-images.githubusercontent.com/95087254/152581407-276312bb-3f03-47c3-ad42-5591e247c1ab.png)
+
 
 # Finally, Creative time:
 Write a C program that asks the user to enter a number and then suggest a 
@@ -49,3 +57,6 @@ hints:
 - 2 means lunch
 - 3 means dinner
 - 4 means snack
+
+#### OUTPUT
+![creativetime](https://user-images.githubusercontent.com/95087254/152581455-329ac603-a8b9-48de-a149-91da28b93032.png)
